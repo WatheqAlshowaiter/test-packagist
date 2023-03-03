@@ -12,5 +12,6 @@
     "prefer-stable" : true,
 	"require": {
 		"php": "^7.1.2|^8.0|^8.1"
-	}
+	},
+    "versions": "* dev-latest-testing"
 }
