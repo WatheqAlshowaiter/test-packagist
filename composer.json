@@ -1,0 +1,15 @@
+{
+	"name": "watheqalshowaiter/test-packagist",
+	"description": "test somthings",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Watheq Alshowaiter",
+			"email": "watheq.alshowaiter@gmail.com"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"php": "^7.1.2|^8.0|^8.1"
+	}
+}
